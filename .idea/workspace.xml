@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c08cb066-f1d2-4174-a449-e100775bd593" name="Changes" comment="new project">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task3/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task3/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task3/Triangle.java" afterDir="false" />
+    <list default="true" id="c08cb066-f1d2-4174-a449-e100775bd593" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task1LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task1LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task1LinkedList/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2ArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2ArrayList/MyArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lesson1.task3.Main">
+  <component name="RunManager" selected="Application.lesson2.task2ArrayList.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="tasks" />
@@ -80,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson1.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.task1.Main" />
+    <configuration name="lesson2.task1LinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.task1LinkedList.Main" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.task1.*" />
+          <option name="PATTERN" value="lesson2.task1LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson1.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.task3.Main" />
+    <configuration name="lesson2.task2ArrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.task2ArrayList.Main" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.task3.*" />
+          <option name="PATTERN" value="lesson2.task2ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lesson1.task3.Main" />
-        <item itemvalue="Application.lesson1.task1.Main" />
+        <item itemvalue="Application.lesson2.task2ArrayList.Main" />
+        <item itemvalue="Application.lesson2.task1LinkedList.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -122,26 +119,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678897626037</updated>
-      <workItem from="1678897627138" duration="5247000" />
-      <workItem from="1678984677337" duration="1599000" />
-      <workItem from="1678986294344" duration="2203000" />
-      <workItem from="1679242719793" duration="2115000" />
+      <workItem from="1678897627138" duration="738000" />
+      <workItem from="1679502449938" duration="1824000" />
+      <workItem from="1679504289316" duration="1725000" />
+      <workItem from="1679506023489" duration="3789000" />
     </task>
-    <task id="LOCAL-00001" summary="new project">
-      <created>1678898696933</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1678898696933</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project" />
   </component>
 </project>
