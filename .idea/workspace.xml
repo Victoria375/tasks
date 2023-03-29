@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c08cb066-f1d2-4174-a449-e100775bd593" name="Changes" comment="lesson3">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/scriptSQLite.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/task3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/task4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c08cb066-f1d2-4174-a449-e100775bd593" name="Changes" comment="lesson4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +159,7 @@
       <workItem from="1679848866818" duration="1396000" />
       <workItem from="1679934392245" duration="102000" />
       <workItem from="1680025333137" duration="644000" />
-      <workItem from="1680107515206" duration="5922000" />
+      <workItem from="1680107515206" duration="5966000" />
     </task>
     <task id="LOCAL-00001" summary="lesson3">
       <created>1679850254801</created>
@@ -175,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679850254801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson4">
+      <created>1680124706501</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680124706501</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +183,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3" />
+    <MESSAGE value="lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson4" />
   </component>
 </project>
