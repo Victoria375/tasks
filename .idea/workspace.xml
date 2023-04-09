@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c08cb066-f1d2-4174-a449-e100775bd593" name="Changes" comment="lesson4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/SessionFactoryUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/entities/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.properties" afterDir="false" />
+    <list default="true" id="c08cb066-f1d2-4174-a449-e100775bd593" name="Changes" comment="lesson5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ServletHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/tomcat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -57,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Виктория/IdeaProjects/tasks/src/main/resources",
+    "last_opened_file_path": "C:/Users/Виктория/IdeaProjects/tasks/src/main/java/lesson6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,8 +71,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Виктория\IdeaProjects\tasks\src\main\java\lesson6" />
+      <recent name="C:\Users\Виктория\IdeaProjects\tasks\src\main\java\lesson6\webapp" />
       <recent name="C:\Users\Виктория\IdeaProjects\tasks\src\main\resources" />
       <recent name="C:\Users\Виктория\IdeaProjects\tasks\src\main\java\lesson4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Виктория\IdeaProjects\tasks\src\main\java\lesson6" />
     </key>
   </component>
   <component name="RunManager" selected="Application.lesson2.task2ArrayList.Main">
@@ -172,7 +176,9 @@
       <workItem from="1680124748156" duration="45000" />
       <workItem from="1680342422782" duration="654000" />
       <workItem from="1680428393358" duration="2380000" />
-      <workItem from="1680430792019" duration="4696000" />
+      <workItem from="1680430792019" duration="4720000" />
+      <workItem from="1680948550476" duration="5702000" />
+      <workItem from="1681033068418" duration="2601000" />
     </task>
     <task id="LOCAL-00001" summary="lesson3">
       <created>1679850254801</created>
@@ -195,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680124774606</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson5">
+      <created>1680442172081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680442172081</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +217,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson3" />
     <MESSAGE value="lesson4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson4" />
+    <MESSAGE value="lesson5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson5" />
   </component>
 </project>
