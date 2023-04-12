@@ -72,12 +72,10 @@ public class StudentDao {
     }
 
     public void addStudents() {
-
         Random random = new Random();
         Session session = sessionFactoryUtils.getSession();
         session.beginTransaction();
-
-        for (int i = 1; i <= 1000; i++) {
+        for (int i = 1; i <= 50; i++) {
             String name = "Student " + i;
             double mark = random.nextInt(100) + 1;
             Student student = Student.builder()
